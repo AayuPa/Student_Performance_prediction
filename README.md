@@ -82,12 +82,14 @@ cd student-performance-prediction
 pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the Script
 python student_academic_prediction.py
+
 📈 Future Enhancements
 Integration with real-time dashboards (Power BI / Tableau)
 Deployment using Flask / FastAPI
 Implementation of Deep Learning models (LSTM, RNN)
 Incorporation of Reinforcement Learning for adaptive education systems
 Expansion to cross-institutional datasets
+
 💼 Business Value
 Enables predictive academic analytics
 Supports early intervention strategies
